@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.md
+setup.py
+basicdsplibrary/__init__.py
+basicdsplibrary.egg-info/PKG-INFO
+basicdsplibrary.egg-info/SOURCES.txt
+basicdsplibrary.egg-info/dependency_links.txt
+basicdsplibrary.egg-info/top_level.txt
